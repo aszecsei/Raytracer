@@ -39,3 +39,6 @@ vcpkg_installed
 
 # Visual Studio
 .vs
+
+# Build files
+x64
