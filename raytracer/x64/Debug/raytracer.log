@@ -1,0 +1,3 @@
+﻿  Renderer.cpp
+LINK : warning LNK4300: ignoring '/INCREMENTAL' because input module contains ASAN metadata
+  raytracer.vcxproj -> C:\dev\raytracer\x64\Debug\raytracer.exe

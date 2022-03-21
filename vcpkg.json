@@ -1,0 +1,11 @@
+{
+    "$schema": "https://raw.githubusercontent.com/microsoft/vcpkg/master/scripts/vcpkg.schema.json",
+    "name": "raytracer",
+    "version": "0.1.0",
+    "dependencies": [
+        "spdlog",
+        "taskflow",
+        "indicators"
+    ],
+    "builtin-baseline": "67f79d8799d91434a0216303771a38eb2b12e8a0"
+}
